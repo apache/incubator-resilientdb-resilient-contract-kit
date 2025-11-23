@@ -1,4 +1,4 @@
-#
+```
 # Licensed to the Apache Software Foundation (ASF) under one
 # or more contributor license agreements.  See the NOTICE file
 # distributed with this work for additional information
@@ -15,6 +15,10 @@
 # KIND, either express or implied.  See the License for the
 # specific language governing permissions and limitations
 # under the License.
-#
+```
+⚠️ This repository is **deprecated**.  
+Active development now continues in the [ResilientDB Monorepo](https://github.com/apache/incubator-resilientdb).
+
+The Resilent Contract kit can be found at [ecosystem/smart-contract/resilient-contract-kit](https://github.com/apache/incubator-resilientdb/tree/master/ecosystem/smart-contract/resilient-contract-kit). 
 
 # resilient-contract-kit
